@@ -1,0 +1,14 @@
+.img {
+    border-radius: 25px;
+    height: 225px;
+    width: 384px;
+    pointer-events: all;
+}
+:hover.img{
+    height: 227px;
+    width: 385px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.content{
+    font-size: 14px;
+}
